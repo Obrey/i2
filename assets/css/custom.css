@@ -50,7 +50,7 @@ html {
     font-family: var(--body-font);
 }
 
-.group {
+.arc {
     font-family: var(--body-font);
 }
 
@@ -85,9 +85,12 @@ h6 {
 }
 
 
+#archive .arc {
+  font-family: var(--body-font);
+}
 
 /* taxonomy */
-#single .group {
+#single .arc {
   margin-top: 36px;
 }
 
@@ -101,30 +104,30 @@ h6 {
   font-size: 15px;
 }
 
-#archive .group {
+#archive .arc {
   margin: 24px auto; 
 }
-#archive .group .key {
+#archive .arc .key {
   font-size: 20px;
   margin-bottom: 12px;
 }
-#archive .group .value {
+#archive .arc .value {
   display: block;
   font-size: 16px;
   margin-bottom: 12px;
 }
-#archive .group .value .date {
+#archive .arc .value .date {
   min-width: 60px;
 }
-#archive .group .value .title {
+#archive .arc .value .title {
   display: inline;
 }
 
-#archive .group .value .tags {
+#archive .arc .value .tags {
   display: inline;
   margin-left: 7px;
 }
-#archive .group .value .tags a {
+#archive .arc .value .tags a {
   font-size: 14px;
   margin-right: 3px;
 }
