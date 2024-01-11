@@ -2,7 +2,7 @@
 title: Showcase
 description: "Open source projects powered by Hextra."
 toc: false
-layout: wide
+layout: taxonimy
 ---
 
 <div class="mt-4"></div>
