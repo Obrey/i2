@@ -46,7 +46,7 @@
   }
  
   
-html {
+  html {
     font-family: var(--body-font) !important;
 }
 
@@ -80,6 +80,6 @@ h6 {
     font-size: 1.2em !important;
 }
 
-.items-center {
-  font-family: var(--body-font)
+.arc a {
+  font-family: var(--body-font);
 }
